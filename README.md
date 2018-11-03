@@ -1,2 +1,2 @@
 # iota-helper-bot
-Telegram link - t.me/IotaHelperBot
+Telegram bot link - https://t.me/IotaHelperBot
